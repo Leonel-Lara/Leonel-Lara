@@ -1,4 +1,4 @@
-## Olá, meu nome é Leonel 👋 <img src="https://komarev.com/ghpvc/?username=victorsouza19&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right"/>
+## Olá, meu nome é Leonel 👋 <img src="https://komarev.com/ghpvc/?username=Leonel-Lara&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right"/>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Victor Souza">
 
 <p>Desenvolvedor curioso e estudante de Desenvolvimento Front-End.<br>
