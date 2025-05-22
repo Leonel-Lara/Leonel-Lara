@@ -20,7 +20,7 @@ No momento trabalho como Estágiario Front-End e contribuo com a criação de te
  **Just study** 💭 
  
  <div style="display: "flex" ">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonel-Lara&show_icons=true&theme=jolly"/>
+  <a href="https://github.com/Leonel-Lara">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonel-Lara&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
